@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">LeDinhDanh</string>
+    <string name="app_name">Student Profile Card</string>
+    <string name="profile_title">STUDENT PROFILE</string>
+    <string name="profile_subtitle">Thẻ thông tin sinh viên</string>
+    <string name="avatar_description">Ảnh đại diện sinh viên</string>
+    <string name="student_id_class">MSSV: %1$s  •  Lớp: %2$s</string>
+    <string name="gpa_badge">%1$s GPA  •  %2$s</string>
+    <string name="gpa_hint">Nhập GPA mới (0.0 – 4.0)</string>
+    <string name="update_button">Cập nhật GPA</string>
+    <string name="invalid_gpa_error">Vui lòng nhập GPA từ 0.0 đến 4.0</string>
+    <string name="invalid_gpa_message">Điểm GPA không hợp lệ!</string>
+    <string name="update_success_message">Cập nhật điểm thành công!</string>
 </resources>
